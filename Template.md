@@ -4,7 +4,9 @@ description: Query data with Subgraphs on The Graph.
 
 # Subgraphs on The Graph
 
-Snapshot’s on-chain data can be easily queried with open APIs known as subgraphs. Subgraphs are decentralized APIs powered by The Graph, a protocol for indexing & querying data from blockchains.
+Subgraphs on The Graph provide a simple and efficient way to access on-chain data through open APIs. These subgraphs can be created and queried by anyone. Snapshot's on-chain data is readily available via its official subgraph, powered by The Graph Network, which serves as a decentralized protocol for indexing and querying blockchain data.
+
+All users on The Graph gain access to 100,000 free queries per month, making it the perfect option for hobby developers and established dapps alike.
 
 ## The Snapshot Subgraph
 
